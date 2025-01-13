@@ -5,7 +5,7 @@
   # Amaan Ghoghawala
 
 # Project Pitch
-  # The problem that we identified was users often struggling to meet their habits and goals consistently. We decided that to solve this issue, users can create habits for themselves which they can track on a daily basis by having a tracking system and check-ins. This solution is unique because  it combines habit tracking with personalized progress insights and regular accountability reminders, ensuring users stay motivated and on track toward their goals. 
+The problem that we identified was users often struggling to meet their habits and goals consistently. We decided that to solve this issue, users can create habits for themselves which they can track on a daily basis by having a tracking system and check-ins. This solution is unique because  it combines habit tracking with personalized progress insights and regular accountability reminders, ensuring users stay motivated and on track toward their goals. 
 
 # Front End 
   # This project will use SwiftUi build the front end, enabling users to log in and tracking history.
